@@ -21,7 +21,7 @@ datasets/
 ├── Lion/
 ├── Panda/
 ├── Tiger/
-├── Zebra/
+└──  Zebra/
 ```
 Each subfolder contains multiple images of the respective animal.
 
